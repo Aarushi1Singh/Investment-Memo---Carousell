@@ -63,7 +63,3 @@ This design ensures scalability, regulatory readiness, and minimal operational o
 - Event-driven system design
 - Marketplace economics
 - SEA fintech and regulatory awareness
-
-## Deliverables
-- 📄 **Full Strategy & Analytics Report (PDF)**  
-  [View Project Report](./Report/Carousell_Internal_Path_Strategy_Proposal.pdf)
